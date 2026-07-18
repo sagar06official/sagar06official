@@ -2,7 +2,7 @@
 
 ### 🚀 Electronics & Computer Science Engineering Undergraduate | AI & ML Enthusiast | Computer Vision | Embedded Systems | IoT Developer
 
-I'm an Electronics and Computer Science Engineering student passionate about building **AI-powered applications**, **computer vision systems**, and **IoT solutions** that solve real-world problems. I enjoy working at the intersection of **Artificial Intelligence, Embedded Systems, and Software Development**, continuously learning emerging technologies and contributing to innovative projects. :contentReference[oaicite:0]{index=0}
+I'm an Electronics and Computer Science Engineering student passionate about building **AI-powered applications**, **computer vision systems**, and **IoT solutions** that solve real-world problems. I enjoy working at the intersection of **Artificial Intelligence, Embedded Systems, and Software Development**, continuously learning emerging technologies and contributing to innovative projects.
 
 ---
 
